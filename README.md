@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm thanakorn Roopsom 👋
 
 <!--
 **thakorn09/thakorn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakorn09&theme=algolia)
+![Non github stats](https://github-readme-stats.vercel.app/api?username=thakorn09&show_icons=true&theme=algolia)
