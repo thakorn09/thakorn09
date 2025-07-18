@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thanakornroopsom/"><img src="https://img.shields.io/badge/LinkedIn-Thanakorn%20Roopsom-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:tanakon.rs@gmail.com"><img src="https://img.shields.io/badge/Gmail-tanakon.rs@gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/kornrs"><img src="https://img.shields.io/github/followers/kornrs?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://github.com/kornrs"><img src="https://img.shields.io/github/followers/thakorn09?label=Follow&style=social" alt="GitHub"></a>
 </p>
 
 ---
@@ -25,7 +25,16 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,redis,docker,jenkins,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,redis,docker,kubernetes,jenkins,tailwind,git,github,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thakorn09&show_icons=true&theme=radical" alt="kornrs stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakorn09&layout=compact&theme=radical" alt="Top languages" height="180"/>
 </p>
 
 ---
@@ -35,6 +44,6 @@
 Feel free to reach out for collaboration, mentorship, or just to say hi 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kornrs&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thakorn09&style=flat-square" alt="profile views" />
 </p>
 
