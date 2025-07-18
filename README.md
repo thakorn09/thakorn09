@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thanakorn Roopsom 👋</h1>
 
 <p align="center">
-  Full-Stack Developer | Open Source Enthusiast | Automation Lover
+  Write clean code, break prod gently, fix it like a hero. 
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,redis,docker,kubernetes,jenkins,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,angular,flutter,react,ts,js,redis,docker,kubernetes,jenkins,tailwind,git,github,linux,kafka,aws,azure" />
 </p>
 
 ---
