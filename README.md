@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kornrs&show_icons=true&theme=radical" alt="kornrs stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kornrs&layout=compact&theme=radical" alt="Top languages" height="180"/>
-</p>
-
----
-
 ### 💬 Let's Connect
 
 Feel free to reach out for collaboration, mentorship, or just to say hi 👋
