@@ -1,19 +1,49 @@
-### Hi I'm Thanakorn Roopsom 👋
+<h1 align="center">Hey, I'm Thanakorn Roopsom 👋</h1>
 
-<!--
-**thakorn09/thakorn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-Stack Developer | Open Source Enthusiast | Automation Lover
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanakornroopsom/"><img src="https://img.shields.io/badge/LinkedIn-Thanakorn%20Roopsom-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:tanakon.rs@gmail.com"><img src="https://img.shields.io/badge/Gmail-tanakon.rs@gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/kornrs"><img src="https://img.shields.io/github/followers/kornrs?label=Follow&style=social" alt="GitHub"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakorn09&theme=algolia)
-![Non github stats](https://github-readme-stats.vercel.app/api?username=thakorn09&show_icons=true&theme=algolia)
+### 🧠 About Me
+
+- 🔭 I’m currently working as a Full Stack Software Engineer
+- 💡 Interested in Coding, Infrastructure , and System Design
+- 🛠️ Tech I use: `Node.js`, `React`, `Golang`,`Docker`, `Redis`, `Jenkins`, `Tailwind CSS`, `Kubernetes`,
+- 🌱 Learning Software Architecture , Good Practice for Software Development , and Advanced Kubernetes
+- 🇹🇭 Based in Bangkok, Thailand
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,redis,docker,jenkins,tailwind,git,github,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kornrs&show_icons=true&theme=radical" alt="kornrs stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kornrs&layout=compact&theme=radical" alt="Top languages" height="180"/>
+</p>
+
+---
+
+### 💬 Let's Connect
+
+Feel free to reach out for collaboration, mentorship, or just to say hi 👋
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kornrs&style=flat-square" alt="profile views" />
+</p>
+
