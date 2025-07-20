@@ -39,10 +39,6 @@
 
 ---
 
-### 💬 Let's Connect
-
-Feel free to reach out for collaboration, mentorship, or just to say hi 👋
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thakorn09&style=flat-square" alt="profile views" />
 </p>
