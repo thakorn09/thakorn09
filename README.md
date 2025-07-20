@@ -25,7 +25,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,angular,flutter,react,ts,js,redis,docker,kubernetes,jenkins,tailwind,git,github,linux,kafka,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,angular,flutter,react,ts,js,redis,postgres,mysql,mongo,docker,kubernetes,jenkins,tailwind,git,github,gitlab,linux,rabbitmq,kafka,aws,azure,figma" />
 </p>
 
 ---
